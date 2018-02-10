@@ -1,0 +1,28 @@
+@media (min-width: 576px) {
+  .card-tabs .tabs-images {
+    width: 60%;
+  }
+  .card-tabs .nav-item {
+    width: 50%;
+  }
+  .schedule .card-tabs .nav-item {
+    width: calc(100% / 3);
+  }
+
+}
+
+@media (min-width: 768px) {
+  .card-tabs .tabs-list {
+    width: 60% !important;
+  }
+  .card-tabs .tabs-images {
+    width: 40%;
+  }
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+}
